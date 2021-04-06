@@ -15,11 +15,11 @@ image2.setAttribute("src",randomImageSource2);
 
 if(randomnumber1 >randomnumber2)
 {
-  document.querySelector("h1").innerHTML="✔🎶Player1 wins!";
+  document.querySelector("h1").innerHTML="✔🎶MOHIT WINS!";
 }
 else if(randomnumber2 >randomnumber1)
 {
-  document.querySelector("h1").innerHTML="✔🎶Player2 wins!";
+  document.querySelector("h1").innerHTML="✔🎶MONA WINS!";
 
 }
 else{
